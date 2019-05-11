@@ -2,7 +2,7 @@
 
 ## 1. 安装
 
-跟ORB-SLAM2完全一样
+跟ORB-SLAM2完全一样，从下面的[链接](https://pan.baidu.com/s/1C1dFLPhTMbhjGQWt-K_39w  )(提取码：ew2r )里把字典下载下来，并且在根目录下进行解压。
 
 ## 2.使用
 
