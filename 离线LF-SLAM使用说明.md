@@ -6,7 +6,9 @@
 
 ## 2.使用
 
-在***~/catkin_ws/src/ORB_SLAM2_LFNet***路径下运行下列语句:
+- 下载一个我自己做好的测试集，[链接]()（提取码：）
+
+- 在***~/catkin_ws/src/ORB_SLAM2_LFNet***路径下运行下列语句:
 
 [^]: 注意:运行前要先运行LFNet,将特征提前提取完毕(这一步已经做完,暂时不需要再运行),存储在/home/zoe/data/rgbd_dataset_freiburg1_room/LFNet文件里,如果改动了LF-SLAM的代码,先在build下进行编译.
 
@@ -30,4 +32,8 @@
        2. ORB_Evaluate.sh:进行ORB-SLAM2的性能分析
 [^]: 运行脚本前请看脚本里的备注,注意路径/数据集名称是否需要修改,如果在此电脑运行,则不需要更改.
 ​	现在存了LFNET500和LFNET1000以及ORB三个文件夹,里面有对应的性能分析文件,供参考.
+
+## 4. LFNet
+
+如果需要自己制作数据集，或者其他操作，请移步这个[仓库](https://github.com/zoeyuchao/LFNet_modify.git)。里面的jupyter文件run里面有记录
 
