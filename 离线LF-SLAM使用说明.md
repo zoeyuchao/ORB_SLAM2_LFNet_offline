@@ -6,8 +6,8 @@
 
 ## 2.使用
 
-- 下载一个我自己做好的测试集，[链接]()（提取码：）
-
+- 下载一个我自己做好的测试集，[链接](https://pan.baidu.com/s/19HQOypHpyBd4GzrkVWPtsQ
+  )（提取码：chtj）[链接](https://pan.baidu.com/s/1ctpvOlROBFRefGohW801-A)（提取码：z6l8）
 - 在***~/catkin_ws/src/ORB_SLAM2_LFNet***路径下运行下列语句:
 
 [^]: 注意:运行前要先运行LFNet,将特征提前提取完毕(这一步已经做完,暂时不需要再运行),存储在/home/zoe/data/rgbd_dataset_freiburg1_room/LFNet文件里,如果改动了LF-SLAM的代码,先在build下进行编译.
